@@ -18,7 +18,11 @@ A **simple UI clone of Visual Studio Code**, built using only **basic HTML and C
 - Practice in Flexbox layout, colors, and icons
 
 ---
+## 📺 You Can View It Here
 
+👉 [**Live Demo**](file:///C:/Users/simra/OneDrive/Desktop/VS%20Clone%20Proj/index.html)
+
+---
 ## 📁 Folder Structure
 vs-code-clone/
 ├── index.html
