@@ -23,3 +23,6 @@ A **simple UI clone of Visual Studio Code**, built using only **basic HTML and C
 vs-code-clone/
 ├── index.html
 ├── style.css
+
+##You can view the project live at:
+👉 http://127.0.0.1:3000/index.html
