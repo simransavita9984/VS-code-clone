@@ -3,6 +3,11 @@
 A **simple UI clone of Visual Studio Code**, built using only **basic HTML and CSS**. This project was created as a practice exercise to explore layout designing and styling with core web technologies.
 
 ---
+## 📺 You Can View It Here
+
+👉 [**Live Demo**](https://vs-code-clone-six-bay.vercel.app/)
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -18,9 +23,7 @@ A **simple UI clone of Visual Studio Code**, built using only **basic HTML and C
 - Practice in Flexbox layout, colors, and icons
 
 ---
-## 📺 You Can View It Here
 
-👉 [**Live Demo**](http://127.0.0.1:5500/index.html)
 
 ---
 ## 📁 Folder Structure
